@@ -1,4 +1,3 @@
-lines = {
+return {
     '"Hello world!" - Compwnter'
 }
-return lines
