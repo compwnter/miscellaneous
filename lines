@@ -1,0 +1,4 @@
+lines = {
+    '"Hello world!" - Compwnter'
+}
+return lines
