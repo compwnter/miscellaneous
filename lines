@@ -1,3 +1,4 @@
-return {
-    '"Hello world!" - Compwnter'
+lines = {
+    '"Hello world!" - Compwnter',
 }
+return lines[math.random(1, #lines)]
